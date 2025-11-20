@@ -15,3 +15,8 @@ public class Calculadora3 {
     }
 }
 //Comentario del 19/11/2025
+
+
+//Comentario del ejercicio 6
+
+//Comentario rama1 ejercicio 8
