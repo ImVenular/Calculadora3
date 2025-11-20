@@ -15,3 +15,4 @@ public class Calculadora3 {
     }
 }
 //Comentario del 19/11/2025
+//Comentario de ejercicio 3, practica 2 el dia 20/11/2025
